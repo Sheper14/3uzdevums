@@ -1,1 +1,38 @@
+Brīvkoda licence/s - Ir "atļauja", kas ļauj attiecīgo programmu lietot bez jebkādiem ierobežojumiem, piemēram, platforma, veids, apjoms utt.
+Ja brīvkoda licencei ir lietošanas limiti, tad tā nav brīvkoda licence.
 
+
+Salīdzinājums ar Apache:
+
+Apache licence - "Atļaujoša licence, kuras galvenie nosacījumi paredz autortiesību un licences paziņojumu saglabāšanu. Līdzstrādnieki nodrošina skaidru patenttiesību piešķiršanu. Licencētos darbus, modifikācijas un lielākus darbus var izplatīt saskaņā ar atšķirīgiem noteikumiem un bez pirmkoda." (no https://choosealicense.com/licenses/)
+
+Apache licenci iespējams izmantot:
+- komerciālai lietošanai
+- Izplatīšanai
+- Modifikācijai
+- Patena lietošanai
+- Privātai lietošanai
+
+Nosacījumi:
+- Jādod atsauce uz licences autortiesībām
+- Valsts izmaiņas (Veiktās izmaiņas licencētajā dokumentā ir nepieciešams dokumentēt.)
+
+Ierobežojumi:
+- Atbildība
+- Preču zīmju izmantošana (Licence nepiešķir preču zīmju tiesības.)
+- Garantija
+
+Brīvkoda licence:
+- Brīva izplatīšana
+- Pieejams pirmkods
+- Atļauti atvasinājumi
+- Pirmkoda autors tiek aizsargāts
+- Neierobežo cilvēku grupu
+- Neierobežo pielietojumu
+- Visām kopijām ir vienāda licence
+- Licence ir nesaisīta ar konkrētu produktu
+- Neierobežo citu programmatūtu
+- Neierobežu kādu tehnoloģiju
+
+
+Izplatītākās nevirulentās (non-copyleft) atvērtā pirmkoda licences ir MIT, Apache un BSD. Svarīgi, ka atšķirībā no slēgtā koda licencēm, nevienlīdzība nav vis attiecībā uz tiesībām, bet gan uz pienākumiem. "Nevienlīdzība" izpaužas tā, ka lietotājiem nav pienākuma uzvesties tikpat nesavtīgi kā autoriem. Šīs licences ļauj izmantot produktus slēgtos risinājumos. (no https://odo.lv/open_source_licences)
